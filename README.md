@@ -5,3 +5,5 @@ This website was designed and coded to portray HTML and CSS design properties th
 The course used for desiging this website is located on Udemy:
 
 "Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann"
+
+***Updated with link via GitHub Pages
