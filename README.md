@@ -1,6 +1,6 @@
 ## HTML and CSS design priciples
 
-**_this site is for learning purposes only_**
+**_this website is for learning purposes only_**
 
 This website was designed and coded to portray HTML and CSS design properties that can be used when designing a simple website for a business or personal portfolio.
 
